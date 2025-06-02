@@ -9,7 +9,7 @@ This project provides a full working example of how to find similar records in S
 The solution simulates a dataset, transforms categorical variables into one-hot encoded columns, normalizes all features, and finally computes pairwise Euclidean distances between records.
 
 It’s a great foundation for:
-- Duplicate detection
+
 - Clustering preparation
 - Similarity-based searches
 - Fuzzy matching
